@@ -1,7 +1,7 @@
 genetic-algorithm
 =================
 
-Generic implementation of [Genetic algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) in Java.
+  Generic implementation of [Genetic algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm) in Java.
 
 ## About ##
 
